@@ -1,0 +1,7 @@
+.card__part {
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    display: flex;
+    gap: 20px;
+} 
